@@ -1,0 +1,27 @@
+{
+  "name": "remember-this-notes-app-backend",
+  "version": "1.0.0",
+  "description": "this is backend for remember this application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chetan-KK/remember-this-notes-app-backend.git"
+  },
+  "keywords": [
+    "notes",
+    "app"
+  ],
+  "author": "Chetan-KK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chetan-KK/remember-this-notes-app-backend/issues"
+  },
+  "homepage": "https://github.com/Chetan-KK/remember-this-notes-app-backend#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.6.5"
+  }
+}
